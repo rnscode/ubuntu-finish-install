@@ -1,11 +1,11 @@
-## Ubuntu Finish Install (dev PHP Node)
+# Ubuntu Finish Install (dev PHP Node)
 
 Executar esse script para terminar a instalação do ubuntu para desenvolvimento php node
 
-# wget
+### wget
 
 sh -c "$(wget -O- https://raw.githubusercontent.com/rnscode/ubuntu-finish-install/master/ubuntu-finish-install.sh)"
 
-# curl
+### curl
 
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/rnscode/ubuntu-finish-install/master/ubuntu-finish-install.sh)"
